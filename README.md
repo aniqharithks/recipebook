@@ -1,4 +1,11 @@
-# Fabric Example Mod
+# RecipeBook Mod
+
+## Work in Progress
+
+## About
+
+This Minecraft mod adds a recipe book-like interface for additonal blocks, like
+the brewing stand.
 
 ## Setup
 
@@ -6,4 +13,4 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+GNU Lesser General Public License v3.0.
